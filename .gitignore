@@ -1,0 +1,11 @@
+*.ply
+*.png
+*.jpg
+*.yml
+/cranky
+/db_mini
+/model_uv
+/pics
+/uvtest
+*.stl
+/media
